@@ -6746,10 +6746,9 @@ lcov-parse@^1.0.0:
   resolved "https://registry.yarnpkg.com/lcov-parse/-/lcov-parse-1.0.0.tgz#eb0d46b54111ebc561acb4c408ef9363bdc8f7e0"
   integrity sha1-6w1GtUER68VhrLTECO+TY73I9+A=
 
-leaflet@^1.7.1:
+"leaflet@git+https://github.com/superhumane/leaflet.git#sh-ccp-v1.0.0":
   version "1.7.1"
-  resolved "https://registry.yarnpkg.com/leaflet/-/leaflet-1.7.1.tgz#10d684916edfe1bf41d688a3b97127c0322a2a19"
-  integrity sha512-/xwPEBidtg69Q3HlqPdU3DnrXQOvQU/CCHA1tcDQVzOwm91YMYaILjNp7L4Eaw5Z4sOYdbBz6koWyibppd8Zqw==
+  resolved "git+https://github.com/superhumane/leaflet.git#993a02b17573555b3e8dad075404cb5ba36e77da"
 
 left-pad@^1.3.0:
   version "1.3.0"
